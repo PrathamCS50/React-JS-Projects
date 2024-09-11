@@ -25,7 +25,7 @@ export default function Accordion() {
   }
 
   return (
-    <div className="wrapper border-4 border-dotted border-red-300 h-[100vh] w-[100vw] flex flex-col items-center">
+    <div className="wrapper border-4 border-dotted border-red-300 h-[100vh] flex flex-col items-center">
       <div className="heading font-bold text-2xl">
         <h1>This is Accordion Element</h1>
       </div>
